@@ -33,6 +33,7 @@ form {
 
 p {
     line-height: 1.75;
+    font-family: 'Poppins', sans-serif;
 }
 
 a {
@@ -66,7 +67,7 @@ section h3.section-subheading {
     font-style: italic;
     margin-bottom: 75px;
     text-transform: none;
-    font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 @media (min-width: 768px) {
@@ -380,7 +381,7 @@ header.masthead .intro-text .intro-heading {
     font-size: 16px;
     font-style: italic;
     margin: 0;
-    font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 #portfolio * {
@@ -408,6 +409,8 @@ header.masthead .intro-text .intro-heading {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
 }
 
 .portfolio-modal .modal-content h2 {
@@ -423,7 +426,8 @@ header.masthead .intro-text .intro-heading {
     font-size: 16px;
     font-style: italic;
     margin: 20px 0 30px;
-    font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
 }
 
 .portfolio-modal .modal-content ul.list-inline {
@@ -682,13 +686,17 @@ header.masthead .intro-text .intro-heading {
     margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
+    font-family: 'Poppins', sans-serif;
 }
 
 .team-member p {
     margin-top: 0;
+    font-family: 'Poppins', sans-serif;
 }
 
 .about-description {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
     max-width: 80%;
     font-size: 1.1rem;
     

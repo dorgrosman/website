@@ -4586,6 +4586,7 @@ button.close {
 }
 
 .modal {
+  font-family: 'Poppins', sans-serif;
   position: fixed;
   top: 0;
   right: 0;
@@ -4673,6 +4674,7 @@ button.close {
   -ms-flex: 1 1 auto;
       flex: 1 1 auto;
   padding: 15px;
+  font-family: 'Poppins', sans-serif;
 }
 
 .modal-footer {
@@ -8165,6 +8167,8 @@ a.text-dark:focus, a.text-dark:hover {
 
 .text-muted {
   color: #868e96 !important;
+  
+  
 }
 
 .text-hide {
